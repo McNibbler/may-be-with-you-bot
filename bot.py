@@ -1,18 +1,18 @@
 #################################################################
-# May be with you twitter bot									#
-# By Thomas Kaunzinger											#
-# May 3, 2019													#
-#																#
+# May be with you twitter bot                                   #
+# By Thomas Kaunzinger                                          #
+# May 3, 2019                                                   #
+#                                                               #
 # Dumb Twitter bot to post "[Month] the [date]th be with you."	#
-# given the current date.										#
-#																#
+# given the current date.                                       #
+#                                                               #
 # To use this bot, include a text file in the root directory	#
-# with four lines of the following keys in order...				#
-#																#
-# public api key 												#
-# private api key 												#
-# public access token 											#
-# private access token 											#
+# with four lines of the following keys in order...             #
+#                                                               #
+# public api key                                                #
+# private api key                                               #
+# public access token                                           #
+# private access token                                          #
 #################################################################
 
 # Include libraries
